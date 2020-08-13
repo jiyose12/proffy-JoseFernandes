@@ -6,7 +6,7 @@
 [yarn-url]: https://classic.yarnpkg.com/
 [npm-url]:  https://www.npmjs.com/
 [expo-url]: https://expo.io/
-[sqlite-url]: https://marketplace.visualstudio.com/items?itemName=alexcvzz.vscode-sqlite/
+[sqlite-url]: https://marketplace.visualstudio.com/items?itemName=alexcvzz.vscode-sqlite
 
 <!-- VARS -->
 
@@ -18,14 +18,12 @@
 
 <br>
 <p align="center">
-    Plataforma online para conectar professores com alunos, feito em Node.js, React.js e React Native com Typescript durante a<a src="https://nextlevelweek.com"> NLW (Next Level Week) #02</a>🚀
+    Plataforma online para conectar professores com alunos, feito em Node.js, React.js e React Native com Typescript durante a<a src="https://nextlevelweek.com"> NLW (Next Level Week) #02</a>
 </p>
 
 <div align="center">  
     
 ![Git Stars][star-badge]
-![NLW Stats][nlw-badge]
-
 
 </div>
 
@@ -47,7 +45,7 @@
 # Use o comando para clonar
 $ git clone https://github.com/jiyose12/proffy-JoseFernandes.git
 
-# Access the project folder
+# Navegue para a pasta do projeto
 $ cd proffy-JoseFernandes
 ```
 
@@ -94,7 +92,7 @@ Para iniciar o servidor, é necessário criar o banco com as migrações
 $ yarn knex:migrate
 
 ```
-> Caso queira visualizar os dados, você poderá baixar a extensão ![SQLite do VSCode][sqlite-url]
+> Caso queira visualizar os dados, você poderá baixar a extensão do VSCode [SQLite][sqlite-url]
 
 ##### Mobile
 
